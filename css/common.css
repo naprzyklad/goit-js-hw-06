@@ -26,5 +26,5 @@ button {
 .gallery {
   display: flex;
   flex-direction: row;
-  gap: 500px;
+  gap: 100px;
 }
